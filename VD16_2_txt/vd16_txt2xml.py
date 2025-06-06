@@ -10,7 +10,6 @@ from xml.sax.saxutils import escape
 # py vd16_txt2xml.py txt hitoutput(1).txt 
 
 # To do: 
-# + Upload 
 # ++ JSON 
 # +++ Database Export 
 
